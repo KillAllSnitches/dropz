@@ -1,0 +1,9 @@
+C:\Users\zakis\source\repos\Dropz\bin\Release\Dropz.exe.config
+C:\Users\zakis\source\repos\Dropz\bin\Release\Dropz.exe
+C:\Users\zakis\source\repos\Dropz\bin\Release\Dropz.pdb
+C:\Users\zakis\source\repos\Dropz\obj\Release\Dropz.Form2.resources
+C:\Users\zakis\source\repos\Dropz\obj\Release\Dropz.Properties.Resources.resources
+C:\Users\zakis\source\repos\Dropz\obj\Release\Dropz.csproj.GenerateResource.cache
+C:\Users\zakis\source\repos\Dropz\obj\Release\Dropz.csproj.CoreCompileInputs.cache
+C:\Users\zakis\source\repos\Dropz\obj\Release\Dropz.exe
+C:\Users\zakis\source\repos\Dropz\obj\Release\Dropz.pdb

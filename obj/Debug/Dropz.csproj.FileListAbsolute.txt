@@ -1,0 +1,11 @@
+C:\Users\zakis\source\repos\Dropz\bin\Debug\Dropz.exe.config
+C:\Users\zakis\source\repos\Dropz\bin\Debug\Dropz.exe
+C:\Users\zakis\source\repos\Dropz\bin\Debug\Dropz.pdb
+C:\Users\zakis\source\repos\Dropz\obj\Debug\Dropz.csproj.AssemblyReference.cache
+C:\Users\zakis\source\repos\Dropz\obj\Debug\Dropz.Form1.resources
+C:\Users\zakis\source\repos\Dropz\obj\Debug\Dropz.Properties.Resources.resources
+C:\Users\zakis\source\repos\Dropz\obj\Debug\Dropz.csproj.GenerateResource.cache
+C:\Users\zakis\source\repos\Dropz\obj\Debug\Dropz.csproj.CoreCompileInputs.cache
+C:\Users\zakis\source\repos\Dropz\obj\Debug\Dropz.exe
+C:\Users\zakis\source\repos\Dropz\obj\Debug\Dropz.pdb
+C:\Users\zakis\source\repos\Dropz\obj\Debug\Dropz.Form2.resources
